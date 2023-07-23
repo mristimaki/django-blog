@@ -33,7 +33,7 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ['mristimaki-django-blog.herokuapp.com', '8000-mristimaki-djangoblog-wifsbnmrkn1.ws-eu102.gitpod.io']
+ALLOWED_HOSTS = ['mristimaki-django-blog-41e1e1ab0e64.herokuapp.com', '8000-mristimaki-djangoblog-wifsbnmrkn1.ws-eu102.gitpod.io']
 
 # Application definition
 
